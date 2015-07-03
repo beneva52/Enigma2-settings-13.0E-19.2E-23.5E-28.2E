@@ -242,7 +242,7 @@
 		<transponder frequency="12693000" symbol_rate="2532000" polarization="1" fec_inner="3" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="12699000" symbol_rate="6000000" polarization="1" fec_inner="3" inversion="2" modulation="1" system="0"/>
 	</sat>
-	<sat name="Eutelsat 33B / Intelsat 702 (33.0°E)" flags="0" position="330">
+	<sat name="Eutelsat 33B/33C (33.0°E)" flags="0" position="330">
 		<transponder frequency="12630000" symbol_rate="2400000" polarization="1" fec_inner="7" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 		<transponder frequency="12722000" symbol_rate="16730000" polarization="1" fec_inner="3" inversion="2" modulation="1" system="1" pilot="2" rolloff="1"/>
 	</sat>
