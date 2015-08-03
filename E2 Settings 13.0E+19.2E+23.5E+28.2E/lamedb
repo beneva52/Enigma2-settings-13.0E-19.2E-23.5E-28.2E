@@ -15527,8 +15527,5 @@ p:BSkyB,c:000a12,c:010a13,c:030900,C:0963,C:0961,C:0960
 1fff:011a2f26:07e3:0002:130:0
 Sports Generic Apps
 p:BSkyB
-c4e0:011a0000:096b:0002:1:0
-11672H SID 0xc4e0
-p:DVB-S QPSK 11672H 28.2°E,c:00091a,c:01091b,c:030901
 end
-Edited with dreamboxEDIT 6.0.2.0 on 03aug2015 12:29:29
+Edited with dreamboxEDIT 6.0.2.0 on 03aug2015 12:33:57
