@@ -1,5 +1,5 @@
 #NAME     Sky+ HD
-#SERVICE 1:64:11B:0:0:0:0:0:0:0::------------- Movies ------------
+#SERVICE 1:64:11A:0:0:0:0:0:0:0::------------- Movies ------------
 #DESCRIPTION ------------- Movies ------------
 #SERVICE 1:0:19:EED:7E0:2:11A0000:0:0:0:
 #SERVICE 1:0:1:1135:7DC:2:11A0000:0:0:0:
@@ -15,7 +15,7 @@
 #SERVICE 1:0:19:F3D:7E0:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F42:7EB:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F04:7F0:2:11A0000:0:0:0:
-#SERVICE 1:64:11C:0:0:0:0:0:0:0::------------- Sports -------------
+#SERVICE 1:64:11B:0:0:0:0:0:0:0::------------- Sports -------------
 #DESCRIPTION ------------- Sports -------------
 #SERVICE 1:0:19:C5E4:968:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C5E9:968:2:11A0000:0:0:0:
@@ -43,10 +43,10 @@
 #SERVICE 1:0:19:CFA0:83A:2:11A0000:0:0:0:
 #SERVICE 1:0:1:C7A7:817:2:11A0000:0:0:0:
 #SERVICE 1:0:1:C7A8:817:2:11A0000:0:0:0:
-#SERVICE 1:64:11D:0:0:0:0:0:0:0::------- BBC Red Button -------
+#SERVICE 1:64:11C:0:0:0:0:0:0:0::------- BBC Red Button -------
 #DESCRIPTION ------- BBC Red Button -------
 #SERVICE 1:0:1:18F6:7FD:2:11A0000:0:0:0:
-#SERVICE 1:64:11E:0:0:0:0:0:0:0::------------ Variety ------------
+#SERVICE 1:64:11D:0:0:0:0:0:0:0::------------ Variety ------------
 #DESCRIPTION ------------ Variety ------------
 #SERVICE 1:0:19:F15:7F1:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F0D:7F1:2:11A0000:0:0:0:
@@ -88,7 +88,7 @@
 #SERVICE 1:0:19:2588:7FB:2:11A0000:0:0:0:
 #SERVICE 1:0:19:FC9:808:2:11A0000:0:0:0:
 #SERVICE 1:0:19:D322:82E:2:11A0000:0:0:0:
-#SERVICE 1:64:11F:0:0:0:0:0:0:0::--------- Knowledge ---------
+#SERVICE 1:64:11E:0:0:0:0:0:0:0::--------- Knowledge ---------
 #DESCRIPTION --------- Knowledge ---------
 #SERVICE 1:0:19:F4C:7F2:2:11A0000:0:0:0:
 #SERVICE 1:0:19:EF8:7E4:2:11A0000:0:0:0:
@@ -101,7 +101,7 @@
 #SERVICE 1:0:1:183F:7D9:2:11A0000:0:0:0:
 #SERVICE 1:0:1:183E:7D9:2:11A0000:0:0:0:
 #SERVICE 1:0:1:CCB0:967:2:11A0000:0:0:0:
-#SERVICE 1:64:120:0:0:0:0:0:0:0::-------- Style & Culture ------
+#SERVICE 1:64:11F:0:0:0:0:0:0:0::-------- Style & Culture ------
 #DESCRIPTION -------- Style & Culture ------
 #SERVICE 1:0:19:F17:7F7:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F1B:7EB:2:11A0000:0:0:0:
@@ -109,11 +109,11 @@
 #SERVICE 1:0:19:F43:7EC:2:11A0000:0:0:0:
 #SERVICE 1:0:1:1840:7D9:2:11A0000:0:0:0:
 #SERVICE 1:0:1:CCD8:967:2:11A0000:0:0:0:
-#SERVICE 1:64:121:0:0:0:0:0:0:0::------------- Music -------------
+#SERVICE 1:64:120:0:0:0:0:0:0:0::------------- Music -------------
 #DESCRIPTION ------------- Music -------------
 #SERVICE 1:0:19:EDE:7D1:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F40:7E4:2:11A0000:0:0:0:
-#SERVICE 1:64:122:0:0:0:0:0:0:0::----------- Children ------------
+#SERVICE 1:64:121:0:0:0:0:0:0:0::----------- Children ------------
 #DESCRIPTION ----------- Children ------------
 #SERVICE 1:0:19:1B28:802:2:11A0000:0:0:0:
 #SERVICE 1:0:19:22E4:80D:2:11A0000:0:0:0:
@@ -123,7 +123,7 @@
 #SERVICE 1:0:19:F23:7EB:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F1E:7D3:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F21:7EB:2:11A0000:0:0:0:
-#SERVICE 1:64:123:0:0:0:0:0:0:0::------- News / Events -------
+#SERVICE 1:64:122:0:0:0:0:0:0:0::------- News / Events -------
 #DESCRIPTION ------- News / Events -------
 #SERVICE 1:0:19:22D9:80D:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F0A:7F7:2:11A0000:0:0:0:
@@ -148,7 +148,7 @@
 #SERVICE 1:0:1:C7B5:817:2:11A0000:0:0:0:
 #SERVICE 1:0:1:C7B6:817:2:11A0000:0:0:0:
 #SERVICE 1:0:19:FC4:7F0:2:11A0000:0:0:0:
-#SERVICE 1:64:124:0:0:0:0:0:0:0::----------- BT Sport -----------
+#SERVICE 1:64:123:0:0:0:0:0:0:0::----------- BT Sport -----------
 #DESCRIPTION ----------- BT Sport -----------
 #SERVICE 1:0:19:C5E5:968:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C5EA:968:2:11A0000:0:0:0:
@@ -170,7 +170,7 @@
 #SERVICE 1:0:1:C4A7:819:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C5FA:968:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C5FB:968:2:11A0000:0:0:0:
-#SERVICE 1:64:125:0:0:0:0:0:0:0::--BT Sport Red Button--
+#SERVICE 1:64:124:0:0:0:0:0:0:0::--BT Sport Red Button--
 #DESCRIPTION --BT Sport Red Button--
 #SERVICE 1:0:85:C49B:819:2:11A0000:0:0:0:
 #SERVICE 1:0:85:C49A:819:2:11A0000:0:0:0:
@@ -180,7 +180,7 @@
 #SERVICE 1:0:85:D002:909:2:11A0000:0:0:0:
 #SERVICE 1:0:85:D00C:909:2:11A0000:0:0:0:
 #SERVICE 1:0:85:D031:909:2:11A0000:0:0:0:
-#SERVICE 1:64:126:0:0:0:0:0:0:0::---- Sky Sports Active ----
+#SERVICE 1:64:125:0:0:0:0:0:0:0::---- Sky Sports Active ----
 #DESCRIPTION ---- Sky Sports Active ----
 #SERVICE 1:0:82:152D:7E3:2:11A2F26:0:0:0:
 #SERVICE 1:0:85:1560:7E3:2:11A2F26:0:0:0:
@@ -201,13 +201,13 @@
 #SERVICE 1:0:85:1567:7E3:2:11A2F26:0:0:0:
 #SERVICE 1:0:82:152F:7E3:2:11A2F26:0:0:0:
 #SERVICE 1:0:82:152E:7E3:2:11A2F26:0:0:0:
-#SERVICE 1:64:127:0:0:0:0:0:0:0::------ Sky On Demand -------
+#SERVICE 1:64:126:0:0:0:0:0:0:0::------ Sky On Demand -------
 #DESCRIPTION ------ Sky On Demand -------
 #SERVICE 1:0:0:ED9:803:2:11A0000:0:0:0::Sky On Demand HD 1
 #DESCRIPTION Sky On Demand HD 1
 #SERVICE 1:0:0:F3A:7D2:2:11A0000:0:0:0::Sky On Demand HD 2
 #DESCRIPTION Sky On Demand HD 2
-#SERVICE 1:64:128:0:0:0:0:0:0:0::--- Sky Movies Box Office ---
+#SERVICE 1:64:127:0:0:0:0:0:0:0::--- Sky Movies Box Office ---
 #DESCRIPTION --- Sky Movies Box Office ---
 #SERVICE 1:0:0:14AB:7D7:2:11A0000:0:0:0::Sky Box Office Preview
 #DESCRIPTION Sky Box Office Preview
@@ -298,7 +298,7 @@
 #DESCRIPTION Sky Box Office
 #SERVICE 1:0:0:132A:7ED:2:11A0000:0:0:0::Sky Box Office Events
 #DESCRIPTION Sky Box Office Events
-#SERVICE 1:64:129:0:0:0:0:0:0:0::------------ Sky Info ------------
+#SERVICE 1:64:128:0:0:0:0:0:0:0::------------ Sky Info ------------
 #DESCRIPTION ------------ Sky Info ------------
 #SERVICE 1:0:19:C1D:7D2:2:11A0000:0:0:0:
 #SERVICE 1:0:1:11A3:7EE:2:11A0000:0:0:0:
