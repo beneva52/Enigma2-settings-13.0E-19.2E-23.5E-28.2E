@@ -673,7 +673,7 @@
 	<sat name="Hot Bird (13.0°E)" flags="0" position="130">
 		<transponder frequency="10719000" symbol_rate="27500000" polarization="1" fec_inner="4" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="10722000" symbol_rate="29900000" polarization="0" fec_inner="3" inversion="2" modulation="1" system="0"/>
-		<transponder frequency="10727000" symbol_rate="30000000" polarization="0" fec_inner="2" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
+		<transponder frequency="10727000" symbol_rate="30000000" polarization="0" fec_inner="3" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 		<transponder frequency="10758000" symbol_rate="27500000" polarization="1" fec_inner="3" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 		<transponder frequency="10775000" symbol_rate="29900000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="10796000" symbol_rate="27500000" polarization="1" fec_inner="4" inversion="2" modulation="1" system="0"/>
