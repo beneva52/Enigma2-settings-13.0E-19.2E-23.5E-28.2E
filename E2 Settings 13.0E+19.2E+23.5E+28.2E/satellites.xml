@@ -400,6 +400,7 @@
 	<sat name="Eutelsat 25B (25.5°E)" flags="0" position="255">
 		<transponder frequency="11045000" symbol_rate="27500000" polarization="0" fec_inner="3" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11142000" symbol_rate="27500000" polarization="1" fec_inner="3" inversion="2" modulation="1" system="0"/>
+		<transponder frequency="11180000" symbol_rate="27500000" polarization="1" fec_inner="2" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 		<transponder frequency="11547000" symbol_rate="27500000" polarization="1" fec_inner="2" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 		<transponder frequency="11565000" symbol_rate="27500000" polarization="0" fec_inner="3" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11585000" symbol_rate="27500000" polarization="1" fec_inner="2" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
@@ -1143,7 +1144,6 @@
 		<transponder frequency="11862000" symbol_rate="27500000" polarization="1" fec_inner="2" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 		<transponder frequency="11881000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="1" pilot="2" rolloff="1"/>
 		<transponder frequency="11900000" symbol_rate="27500000" polarization="1" fec_inner="4" inversion="2" modulation="1" system="0"/>
-		<transponder frequency="11919000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11938000" symbol_rate="27500000" polarization="1" fec_inner="3" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11958000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11977000" symbol_rate="27500000" polarization="1" fec_inner="4" inversion="2" modulation="1" system="0"/>
@@ -1219,7 +1219,6 @@
 		<transponder frequency="11862000" symbol_rate="27500000" polarization="1" fec_inner="2" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 		<transponder frequency="11881000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="1" pilot="2" rolloff="1"/>
 		<transponder frequency="11900000" symbol_rate="27500000" polarization="1" fec_inner="4" inversion="2" modulation="1" system="0"/>
-		<transponder frequency="11919000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11938000" symbol_rate="27500000" polarization="1" fec_inner="3" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11958000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="11977000" symbol_rate="27500000" polarization="1" fec_inner="4" inversion="2" modulation="1" system="0"/>
@@ -1251,7 +1250,10 @@
 		<transponder frequency="12476000" symbol_rate="27500000" polarization="1" fec_inner="2" inversion="2" modulation="2" system="1" pilot="2" rolloff="2"/>
 	</sat>
 	<sat name="Eutelsat 8WB/8WD (8.0°W)" flags="0" position="-80">
+		<transponder frequency="11012000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
 		<transponder frequency="12543000" symbol_rate="890000" polarization="0" fec_inner="1" inversion="2" modulation="1" system="0"/>
+		<transponder frequency="12603000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
+		<transponder frequency="12644000" symbol_rate="27500000" polarization="0" fec_inner="4" inversion="2" modulation="1" system="0"/>
 	</sat>
 	<sat name="Express AM44 (11.0°W)" flags="0" position="-110">
 		<transponder frequency="11522000" symbol_rate="1185000" polarization="0" fec_inner="2" inversion="2" modulation="1" system="0"/>
