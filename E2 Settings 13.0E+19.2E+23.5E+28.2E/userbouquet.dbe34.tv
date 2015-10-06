@@ -1,29 +1,27 @@
 #NAME     3D / UHD
-#SERVICE 1:64:2B7:0:0:0:0:0:0:0::---------- Free To Air ----------
+#SERVICE 1:64:2B8:0:0:0:0:0:0:0::---------- Free To Air ----------
 #DESCRIPTION ---------- Free To Air ----------
 #SERVICE 1:0:1:13ED:403:1:C00000:0:0:0:
-#SERVICE 1:64:2B8:0:0:0:0:0:0:0::------ Sky Deutschland ------
+#SERVICE 1:64:2B9:0:0:0:0:0:0:0::------ Sky Deutschland ------
 #DESCRIPTION ------ Sky Deutschland ------
 #SERVICE 1:0:19:75:A:85:C00000:0:0:0:
-#SERVICE 1:64:2B9:0:0:0:0:0:0:0::---------- Movistar+ ----------
+#SERVICE 1:64:2BA:0:0:0:0:0:0:0::---------- Movistar+ ----------
 #DESCRIPTION ---------- Movistar+ ----------
 #SERVICE 1:0:19:7855:41A:1:C00000:0:0:0:
-#SERVICE 1:64:2BA:0:0:0:0:0:0:0::------------- Nova -------------
+#SERVICE 1:64:2BB:0:0:0:0:0:0:0::------------- Nova -------------
 #DESCRIPTION ------------- Nova -------------
 #SERVICE 1:0:1:3C92:1BBC:13E:820000:0:0:0:
 #SERVICE 1:0:1:3C98:1BBC:13E:820000:0:0:0:
-#SERVICE 1:64:2BB:0:0:0:0:0:0:0::----------- Sky Italia -----------
+#SERVICE 1:64:2BC:0:0:0:0:0:0:0::----------- Sky Italia -----------
 #DESCRIPTION ----------- Sky Italia -----------
 #SERVICE 1:0:19:1043:1D4C:FBFF:820000:0:0:0:
 #SERVICE 1:0:19:1040:1D4C:FBFF:820000:0:0:0:
 #SERVICE 1:0:19:1042:1D4C:FBFF:820000:0:0:0:
 #SERVICE 1:0:19:1041:1D4C:FBFF:820000:0:0:0:
 #SERVICE 1:0:19:1044:1D4C:FBFF:820000:0:0:0:
-#SERVICE 1:64:2BC:0:0:0:0:0:0:0::----------- Ultra HD -----------
+#SERVICE 1:64:2BD:0:0:0:0:0:0:0::----------- Ultra HD -----------
 #DESCRIPTION ----------- Ultra HD -----------
-#SERVICE 1:0:1:8AC:1F4:13E:820000:0:0:0:
-#SERVICE 1:0:2:11FA:2B5C:13E:820000:0:0:0::Hot Bird 4k1
-#DESCRIPTION Hot Bird 4k1
+#SERVICE 1:0:1:11FA:2B5C:13E:820000:0:0:0:
 #SERVICE 1:0:1:11F9:2B5C:13E:820000:0:0:0:
 #SERVICE 1:0:1:1901:3FA:1:C00000:0:0:0:
 #SERVICE 1:0:1F:30DE:413:1:C00000:0:0:0:
